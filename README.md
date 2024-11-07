@@ -9,7 +9,7 @@
 8. php artisan serve
 
 ## Init project without xampp
-- Siga los pasos anteriores y edite los campos .env -> APP_URL y DB para que funcione con su programa.
+- Follow the steps above and edit the .env -> APP_URL and DB fields to make it work with your program.
 
 
 
