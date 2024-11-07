@@ -4,7 +4,7 @@
 3. composer install
 4. npm install
 5. php artisan key:generate
-6. open mysql server
+### open mysql server
 7. php artisan serve
 8. npm run dev
 10. php artisan migrate --seed
