@@ -4,9 +4,10 @@
 3. composer install
 4. npm install
 5. php artisan key:generate
-6. php artisan migrate --seed
-7. npm run dev
-8. php artisan serve
+6. open mysql server
+7. php artisan migrate --seed
+8. npm run dev
+9. php artisan serve
 
 ## Init project without xampp
 - Follow the steps above and edit the .env -> APP_URL and DB fields to make it work with your program.
