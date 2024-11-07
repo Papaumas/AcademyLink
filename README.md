@@ -12,7 +12,7 @@
 ## Init project without xampp
 - Follow the steps above and edit the .env -> APP_URL and DB fields to make it work with your program.
 
-## Admin user
+## Admin credentials
 - Username: paumas
 - Password: paumas
 
