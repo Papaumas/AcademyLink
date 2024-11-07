@@ -1,11 +1,12 @@
 ## Init project with xampp
 1. git clone https://github.com/Papaumas/AcademyLink
-2. composer install
-3. npm install
-4. php artisan key:generate
-5. php artisan migrate --seed
-6. npm run dev
-7. php artisan serve
+2. cd AcademyLink
+3. composer install
+4. npm install
+5. php artisan key:generate
+6. php artisan migrate --seed
+7. npm run dev
+8. php artisan serve
 
 ## Init project without xampp
 - Siga los pasos anteriores y edite los campos .env -> APP_URL y DB para que funcione con su programa.
