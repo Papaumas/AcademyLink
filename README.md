@@ -1,3 +1,16 @@
+## Init project with xampp
+1. git clone https://github.com/Papaumas/AcademyLink
+2. composer install
+3. npm install
+4. php artisan key:generate
+5. php artisan migrate --seed
+6. npm run dev
+7. php artisan serve
+
+## Initi project without xampp
+- Siga los pasos anteriores y edite los campos .env -> APP_URL y DB para que funcione con su programa.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
