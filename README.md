@@ -7,7 +7,7 @@
 6. Open mysql server (xampp)
 7. php artisan serve
 8. npm run dev
-10. php artisan migrate --seed
+10. php artisan migrate:fresh --seed
 
 ## Init project without xampp
 - Follow the steps above and edit the .env -> APP_URL and DB fields to make it work with your program.
